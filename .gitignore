@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# raw + generated data
+data/raw_xpim/*
+data/raw_multiframe/*
+data/interim/*
+data/processed/*
+output/*
+
+!**/.gitkeep
